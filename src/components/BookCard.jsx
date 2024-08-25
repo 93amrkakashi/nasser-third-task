@@ -28,7 +28,7 @@ export default function BookCard({ book }) {
     <div className="border rounded-lg shadow bg-white text-text">
       <div className="h-48 w-full bg-gray-300 text-center flex items-center justify-center">
         <img
-          src="https://blogger.googleusercontent.com/img/a/AVvXsEiXcspfAkMVlfFOu2A-VFcXAiU079l_fr2DrS52y-sSHZLtW99ya3_3frAVK1JEWRlGZ87z_8GsdJpXXXPmNUhukvdCjW4BYRQjidpGd47iKyx1d__czmQ9fXBd27kZt6Ht7KYIhiW2rjRQXvu0ib4AUEHc-ktrZUuNKtpUrqJYVUNGj45Sfzw6LQvC"
+          src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvam9iNjgyLTI0NS1wLnBuZw.png"
           width={150}
           height={150}
           alt="book"
