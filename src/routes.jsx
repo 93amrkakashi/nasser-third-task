@@ -1,11 +1,10 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
-import Home from "../../Downloads/vite-react/vite-react/src/pages/Home.jsx";
-import Login from "../../Downloads/vite-react/vite-react/src/pages/Login.jsx";
-import Register from "../../Downloads/vite-react/vite-react/src/pages/Register.jsx";
-import AdminDashboard from "../../Downloads/vite-react/vite-react/src/pages/AdminDashboard.jsx";
-import AdminBookForm from "../../Downloads/vite-react/vite-react/src/pages/AdminBookForm.jsx";
-import ProtectedRoute from "../../Downloads/vite-react/vite-react/src/components/ProtectedRoute.jsx";
+import Login from "./pages/Login.jsx";
+import Register from "./pages/Register.jsx";
+import AdminDashboard from "./pages/AdminDashboard.jsx";
+import AdminBookForm from "./pages/AdminBookForm.jsx";
+import ProtectedRoute from "./components/ProtectedRoute.jsx";
 function AppRoutes() {
   return (
     <Routes>
