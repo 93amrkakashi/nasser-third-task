@@ -1,0 +1,124 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "في قلبي أنثى عبرية",
+      "author": "خولة حمدي",
+      "category": "رواية",
+      "image": "https://st-takla.org/Gallery/var/albums/Books/General-and-Writing/www-St-Takla-org--Books-01.gif?m=1419425451",
+      "description": "رواية تتناول قصة فتاة يهودية تعتنق الإسلام وتتحدى الصعوبات التي تواجهها في مجتمعها الجديد."
+    },
+    {
+      "id": "2",
+      "title": "تيست التعديل 3",
+      "author": "عبد الرحمن الشرقاوي",
+      "category": "رواية",
+      "description": "رواية تسرد قصة صراع الفلاحين المصريين مع الإقطاعيين في فترة الاحتلال البريطاني."
+    },
+    {
+      "id": "10",
+      "title": "الوردة الصفراء",
+      "author": "محمد حسن علوان",
+      "category": "رواية",
+      "image": "https://st-takla.org/Gallery/var/albums/Books/General-and-Writing/www-St-Takla-org--Books-01.gif?m=1419425451",
+      "description": "رواية تتناول قصة شاب يسافر إلى الخارج ليكتشف معنى الحياة والحب."
+    },
+    {
+      "id": "11",
+      "title": "الطريق إلى مكة",
+      "author": "محمد أسد",
+      "category": "سيرة ذاتية",
+      "image": "https://st-takla.org/Gallery/var/albums/Books/General-and-Writing/www-St-Takla-org--Books-01.gif?m=1419425451",
+      "description": "سيرة ذاتية تروي رحلة مسلم أوروبي إلى مكة وتعليمه الدين الإسلامي."
+    },
+    {
+      "id": "12",
+      "title": "القرآن الكريم",
+      "author": "الله",
+      "category": "ديني",
+      "image": "https://st-takla.org/Gallery/var/albums/Books/General-and-Writing/www-St-Takla-org--Books-01.gif?m=1419425451",
+      "description": "الكتاب المقدس للإسلام، يحتوي على تعاليم الإسلام وتوجيهاته."
+    },
+    {
+      "id": "14",
+      "title": "الملحمة",
+      "author": "محمود درويش",
+      "category": "شعر",
+      "image": "https://st-takla.org/Gallery/var/albums/Books/General-and-Writing/www-St-Takla-org--Books-01.gif?m=1419425451",
+      "description": "مجموعة شعرية تجمع أعمال الشاعر الفلسطيني محمود درويش التي تعبر عن القضايا الوطنية والإنسانية."
+    },
+    {
+      "id": "15",
+      "title": "مئة عام من العزلة",
+      "author": "غابرييل غارثيا ماركيز",
+      "category": "رواية",
+      "image": "https://st-takla.org/Gallery/var/albums/Books/General-and-Writing/www-St-Takla-org--Books-01.gif?m=1419425451",
+      "description": "رواية تسرد قصة عائلة بوينديا في بلدة خيالية في كولومبيا على مدار مئة عام."
+    },
+    {
+      "id": "16",
+      "title": "الفتاة التي سرقت كتاب",
+      "author": "ماركوس زوساك",
+      "category": "رواية",
+      "image": "https://st-takla.org/Gallery/var/albums/Books/General-and-Writing/www-St-Takla-org--Books-01.gif?m=1419425451",
+      "description": "رواية تحكي قصة فتاة نازية في ألمانيا وتروي كيف أنها سرقت الكتب وتعلمت قراءة القصص من خلالهم."
+    },
+    {
+      "id": "17",
+      "title": "البرهان",
+      "author": "د. مصطفى محمود",
+      "category": "فلسفة",
+      "image": "https://st-takla.org/Gallery/var/albums/Books/General-and-Writing/www-St-Takla-org--Books-01.gif?m=1419425451",
+      "description": "كتاب يتناول موضوعات فلسفية وعلمية حول الكون والوجود."
+    }
+  ],
+  "users": [
+    {
+      "id": "497c",
+      "name": "amr",
+      "email": "test@gmail.com",
+      "password": "22222222",
+      "role": "admin"
+    },
+    {
+      "id": "9a81",
+      "name": "amr ali",
+      "email": "test2@gmail.com",
+      "password": "22222222",
+      "role": "user"
+    },
+    {
+      "id": "5fcf",
+      "name": "عمرو على محمد",
+      "email": "test123@gmail.com",
+      "password": "22222222",
+      "role": "user"
+    },
+    {
+      "id": "e3e0",
+      "name": "amr ali",
+      "email": "test77@gmail.com",
+      "password": "22222222",
+      "role": "user"
+    },
+    {
+      "id": "399d",
+      "name": "ييييي",
+      "email": "rest@gmail.com",
+      "password": "222222",
+      "role": "user"
+    },
+    {
+      "id": "a70b",
+      "name": "3mm",
+      "email": "test111@gmail.com",
+      "password": "22222222"
+    },
+    {
+      "id": "aaeb",
+      "name": "asdasd",
+      "email": "secit91@gmail.com",
+      "password": "شسيشسيشسيشسيشسيشسيشسي"
+    }
+  ]
+}
