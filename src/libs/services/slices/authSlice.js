@@ -47,7 +47,7 @@ export const signupUser = createAsyncThunk(
         return rejectWithValue("هذا الايميل مستخدم بالفعل.");
       }
 
-      const response = await axios.post(`${API_URL}/users`, userData);
+      const response = await axios.post(API_URL, userData);
       const user = response.data;
       return user;
     } catch (error) {
