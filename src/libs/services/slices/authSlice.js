@@ -38,7 +38,7 @@ export const signupUser = createAsyncThunk(
   "auth/signupUser",
   async (userData, { rejectWithValue }) => {
     try {
-      const usersResponse = await axios.get(`${API_URL}/users`);
+      const usersResponse = await axios.get(API_URL);
       const users = usersResponse.data;
 
       const userExists = users.some(user => user.email === userData.email);
