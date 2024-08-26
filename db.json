@@ -1,29 +1,6 @@
 {
   "books": [
     {
-      "id": "1",
-      "title": "في قلبي أنثى عبرية",
-      "author": "خولة حمدي",
-      "category": "رواية",
-      "image": "https://st-takla.org/Gallery/var/albums/Books/General-and-Writing/www-St-Takla-org--Books-01.gif?m=1419425451",
-      "description": "رواية تتناول قصة فتاة يهودية تعتنق الإسلام وتتحدى الصعوبات التي تواجهها في مجتمعها الجديد."
-    },
-    {
-      "id": "2",
-      "title": "تيست التعديل 3",
-      "author": "عبد الرحمن الشرقاوي",
-      "category": "رواية",
-      "description": "رواية تسرد قصة صراع الفلاحين المصريين مع الإقطاعيين في فترة الاحتلال البريطاني."
-    },
-    {
-      "id": "10",
-      "title": "الوردة الصفراء",
-      "author": "محمد حسن علوان",
-      "category": "رواية",
-      "image": "https://st-takla.org/Gallery/var/albums/Books/General-and-Writing/www-St-Takla-org--Books-01.gif?m=1419425451",
-      "description": "رواية تتناول قصة شاب يسافر إلى الخارج ليكتشف معنى الحياة والحب."
-    },
-    {
       "id": "11",
       "title": "الطريق إلى مكة",
       "author": "محمد أسد",
@@ -41,11 +18,10 @@
     },
     {
       "id": "14",
-      "title": "الملحمة",
-      "author": "محمود درويش",
-      "category": "شعر",
-      "image": "https://st-takla.org/Gallery/var/albums/Books/General-and-Writing/www-St-Takla-org--Books-01.gif?m=1419425451",
-      "description": "مجموعة شعرية تجمع أعمال الشاعر الفلسطيني محمود درويش التي تعبر عن القضايا الوطنية والإنسانية."
+      "title": "الملحمةASDASDAS",
+      "author": "محمود درويشDASDASDAS",
+      "category": "شعرDASDASDAS",
+      "description": "مجموعة شعرية تجمع أعمال الشاعر الفلسطيني محمود درويش التي تعبر عن القضايا الوطنية والإنسانية.DASDAS"
     },
     {
       "id": "15",
@@ -119,6 +95,18 @@
       "name": "asdasd",
       "email": "secit91@gmail.com",
       "password": "شسيشسيشسيشسيشسيشسيشسي"
+    },
+    {
+      "id": "48e6",
+      "name": "شسيشسيشسيشسي",
+      "email": "secit91@gmail.com",
+      "password": "AAA123456"
+    },
+    {
+      "id": "e9f1",
+      "name": "asdasd",
+      "email": "secit91@gmail.com",
+      "password": "asdasdasdasd"
     }
   ]
 }

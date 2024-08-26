@@ -5,6 +5,8 @@ import Register from "./pages/Register.jsx";
 import AdminDashboard from "./pages/AdminDashboard.jsx";
 import AdminBookForm from "./pages/AdminBookForm.jsx";
 import ProtectedRoute from "./components/ProtectedRoute.jsx";
+import Home from "./pages/Home.jsx";
+
 function AppRoutes() {
   return (
     <Routes>
