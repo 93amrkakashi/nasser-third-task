@@ -38,15 +38,16 @@ export const signupUser = createAsyncThunk(
   "auth/signupUser",
   async (userData, { rejectWithValue }) => {
     try {
-      const checkEmailResponse = await axios.post(`${API_URL}/check-email`, {
-        email: userData.email,
-      });
+      const usersResponse = await axios.get(`${API_URL}/users`);
+      const users = usersResponse.data;
 
-      if (checkEmailResponse.data.exists) {
-        return rejectWithValue("هذا الايميل مستخدم بالفعل!.");
+      const userExists = users.some(user => user.email === userData.email);
+
+      if (userExists) {
+        return rejectWithValue("هذا الايميل مستخدم بالفعل.");
       }
 
-      const response = await axios.post(API_URL, userData);
+      const response = await axios.post(`${API_URL}/users`, userData);
       const user = response.data;
       return user;
     } catch (error) {
