@@ -43,7 +43,7 @@ export default function NavBar() {
             to="/"
             className="text-white hover:text-gray-300 transition-colors duration-300 ease-in-out"
           >
-            موسوعة الكتب
+            الموسوعة 
           </Link>
         </div>
         <div className="flex w-[70%] justify-end items-center gap-4">

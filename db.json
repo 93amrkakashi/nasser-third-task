@@ -1,5 +1,4 @@
 {
-  
   "books": [
     {
       "id": "11",
@@ -8,21 +7,6 @@
       "category": "سيرة ذاتية",
       "image": "https://st-takla.org/Gallery/var/albums/Books/General-and-Writing/www-St-Takla-org--Books-01.gif?m=1419425451",
       "description": "سيرة ذاتية تروي رحلة مسلم أوروبي إلى مكة وتعليمه الدين الإسلامي."
-    },
-    {
-      "id": "12",
-      "title": "القرآن الكريم",
-      "author": "الله",
-      "category": "ديني",
-      "image": "https://st-takla.org/Gallery/var/albums/Books/General-and-Writing/www-St-Takla-org--Books-01.gif?m=1419425451",
-      "description": "الكتاب المقدس للإسلام، يحتوي على تعاليم الإسلام وتوجيهاته."
-    },
-    {
-      "id": "14",
-      "title": "الملحمةASDASDAS",
-      "author": "محمود درويشDASDASDAS",
-      "category": "شعرDASDASDAS",
-      "description": "مجموعة شعرية تجمع أعمال الشاعر الفلسطيني محمود درويش التي تعبر عن القضايا الوطنية والإنسانية.DASDAS"
     },
     {
       "id": "15",
